@@ -1,4 +1,5 @@
 // resolvam
+// criem um fork deste repositorio e resolvam esta atividade
 
 // Função recebe como parâmetro um valor numérico x
 // e retorna o seu quadrado.
@@ -9,8 +10,6 @@ function retornaQuadrado(base){
 function retornaResto(dividendo, divisor){
   return dividendo % divisor;
 }
-
-console.log(retornaResto(6,10));
 
 // 24 = retornaQuadrado(x) - retornaResto(x,y)
 // 24 =         36         - 
